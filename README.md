@@ -57,10 +57,13 @@ Key insights derived from the analysis:
 
 ---
 
-## 📷 Screenshots
+## 📊 Dashboard Preview
 
-# Revenue Per Transaction
+### 🧑‍🤝‍🧑 Customer Analysis Dashboard
+![Customer Analysis](Dashboard/Customer_Analysis_Dashboard.png)
 
+### 🏪 Trial vs Control Store Dashboard
+![Trial vs Control](Dashboard/Trial_vs_Control_Store_Dashboard.png)
 
 ---
 
