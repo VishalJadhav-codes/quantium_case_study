@@ -59,13 +59,8 @@ Key insights derived from the analysis:
 
 ## 📷 Screenshots
 
-Add your visualizations here (important for recruiters)
+# Revenue Per Transaction
 
-Examples:
-
-* Sales by Customer Lifestage
-* Revenue per Transaction
-* Customer Segment Contribution
 
 ---
 
